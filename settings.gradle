@@ -1,2 +1,2 @@
-rootProject.name='CobaFirebase'
+rootProject.name='Bab05_FirebaseAuth_Maps'
 include ':app'

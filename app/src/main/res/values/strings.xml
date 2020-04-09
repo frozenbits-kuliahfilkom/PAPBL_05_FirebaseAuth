@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">CobaFirebase</string>
+    <string name="app_name">05_FirebaseAuth_Maps</string>
     <string name="title_activity_maps">Map</string>
 </resources>
