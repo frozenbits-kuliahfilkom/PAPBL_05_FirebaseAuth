@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898243193815",
+    "firebase_url": "https://tugaspapbl-wfh001-firebase.firebaseio.com",
+    "project_id": "tugaspapbl-wfh001-firebase",
+    "storage_bucket": "tugaspapbl-wfh001-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898243193815:android:4d9ba67f7a25a757d8f992",
+        "android_client_info": {
+          "package_name": "com.frozenbits.cobafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898243193815-lnkdo5i7d326iq44u9jentkdkcsm9qql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frozenbits.cobafirebase",
+            "certificate_hash": "117b332243d6f27661574ac23e2f21a997a8945e"
+          }
+        },
+        {
+          "client_id": "898243193815-378htm9ca8lnmgv1hmfqgtc1inmjs2fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYC-7_GDZY9vx5zYLpwqbm4EKkjwk8FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898243193815-378htm9ca8lnmgv1hmfqgtc1inmjs2fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
